@@ -4,6 +4,8 @@ A fun, interactive Valentine's Day webpage that asks the big question — with a
 
 ## Live Demo
 
+[Live Demo](https://lgxcodes.github.io/Valentines-Day/)
+
 ## How It Works
 
 - Click **Yes** and a fullscreen celebration appears with floating hearts

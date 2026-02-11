@@ -2,9 +2,7 @@
 
 A fun, interactive Valentine's Day webpage that asks the big question — with a twist. The "No" button dodges away every time you try to click it, leaving "Yes" as the only real option.
 
-## Live Demo
-
-[Live Demo](https://lgxcodes.github.io/Valentines-Day/)
+Live: https://lgxcodes.github.io/Valentines-Day/
 
 ## How It Works
 
